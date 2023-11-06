@@ -201,7 +201,7 @@ app.get('/api/message', (req, res) => {
     res.json(readMessages())    
 })
 
-app.listen(8080, function () {
+app.listen(9090, function () {
     clearFiles();
     console.log('Server running at ' + os.hostname());
 });
