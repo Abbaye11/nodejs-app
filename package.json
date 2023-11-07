@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "express": "^4.16.1",
-    "os": "^0.1.2"
+    "os": "^0.1.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
   }
 }
